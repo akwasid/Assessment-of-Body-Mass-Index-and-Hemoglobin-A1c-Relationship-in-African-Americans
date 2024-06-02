@@ -1,0 +1,2 @@
+# Assessment-of-Body-Mass-Index-and-Hemoglobin-A1c-Relationship-in-African-Americans
+his project examines the BMI-HbA1c relationship in African Americans in central Virginia using datasets from two cohorts. SAS is used for advanced statistical analysis, identifying predictors and assessing factors like age, sex, and lifestyle. The goal is to inform interventions for obesity and diabetes in this community.
